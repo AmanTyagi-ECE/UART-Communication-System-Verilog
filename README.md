@@ -32,18 +32,11 @@ The UART Transmitter converts 8-bit parallel data into serial data, while the UA
 
 # Block Diagram
 
-```text
-         +------------+       tx        +------------+
-data_in ---> UART TX  ---------------->  UART RX ---> data_out
-         +------------+                 +------------+
-                 ^                             ^
-                 |                             |
-               tick                          tick
-                 \____________________________/
-                              |
-                        Baud Generator
-```
+<h2>Block Diagram</h2>
 
+<p align="center">
+  <img src="block_diagram.png" width="700">
+</p>
 ---
 
 # Modules Description
