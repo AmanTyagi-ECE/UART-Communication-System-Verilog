@@ -105,6 +105,10 @@ The received data matched the transmitted data successfully.
 
 ---
 
+# Simulation Waveform
+
+![Waveform](results/output_waveform.png)
+
 # Tools Used
 
 - Verilog HDL
