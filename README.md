@@ -35,7 +35,7 @@ The UART Transmitter converts 8-bit parallel data into serial data, while the UA
 <h2>Block Diagram</h2>
 
 <p align="center">
-  <img src="block_diagram.png" width="700">
+  <img src=""C:\Users\LENOVO\OneDrive\Desktop\UART_communication_system\block_diagram.png"" width="700">
 </p>
 ---
 
